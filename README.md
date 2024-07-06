@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
  -->
  
- <h1 align="center">Hi 👋, I'm Sanket Chuadhari</h1>
+ <h1 align="center">Hi 👋, I'm Sanket Chaudhari</h1>
 <h3 align="center">Passionate about the transformative power of technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket190&label=Profile%20views&color=0e75b6&style=flat" alt="sanket190" /> </p>
