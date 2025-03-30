@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket190&label=Profile%20views&color=0e75b6&style=flat" alt="sanket190" /> </p>
 
-- 🌱 I’m currently learning **.Net and C#**
+- 🌱 I am a Full-Stack Developer builds and maintains web applications, handling both front-end (UI/UX) and back-end (server, database) development. They work with frameworks like **React, Angular, .NET, Springboot** and technologies like **APIs, cloud, and DevOps** to ensure seamless performance and scalability.
 
 - 📫 How to reach me **sanketchaudhari.in20@gmail.com**
 
